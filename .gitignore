@@ -1,2 +1,8 @@
 *.class
 *.log
+.idea
+.vscode
+.docker-compose.yml
+project/project/
+project/target/
+target/
